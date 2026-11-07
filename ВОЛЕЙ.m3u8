@@ -1,0 +1,35 @@
+#EXTM3U
+
+#EXTINF:-1, Мир Белогорья
+http://stream.tvbelgorod.ru:8080/mirbelogorya/index.m3u8
+#EXTINF:-1, Мир Белогорья
+http://mirbelogorya.ru:8080/mirbelogorya/tracks-v1a1/index.m3u8
+
+#EXTINF:-1, Сургут 86
+http://sitv.ru/hls/s86.m3u8
+
+#EXTINF:-1, Нижний Новгород 24
+https://live-vestinn.cdnvideo.ru/vestinn/nn24/playlist.m3u8
+
+#EXTINF:-1, Ямал
+https://bl.webcaster.pro/media/playlist/free_eb0182bd41004b93570aa08119ad9151/4_97090908/1080p/5b7cf483e6b0ccafcd0c6e9052677dbc/4846138545.m3u8?live=15&ref=https://yamal-media.ru/
+#EXTINF:-1, Ямал
+https://bl.rutube.ru/livestream/c0de1d61969a7fbdf6c68ca0b8a67769/index.m3u8?s=n-7VyTbw6l8t2BZ16d4lNQ&e=2094038267&scheme=https
+
+#EXTINF:-1, Башкортостан 24
+http://109.233.169.137/hls/b24-hls.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
